@@ -47,7 +47,7 @@ cd <your-project-name>
 
 Initialise git
 ```
-rm .rf .git && git init
+rm -rf .git && git init
 ```
 
 Install dependencies. You may need to install pnpm first `npm i pnpm -g`
