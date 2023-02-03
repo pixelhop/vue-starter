@@ -4,12 +4,12 @@ This is a starter project that is used a base for loads of [Pixelhop](https://pi
 
 This project contains the following pre-installed and configured to help you get up and running with our tutorials quicker so you can get on with the fun stuff!
 
-- Vite - Vite will provide us with front-end tooling.
-- PNPM - PNPM has fast become our favourite package manager. Its just like NPM but faster!
-- Vue 3 - We are spoilt for choice these days but Vue is still our fave frontend framework.
-- TailwindCSS - The Marmitte of CSS frameworks! We love it and find it helps keep our projects consistant and allows us to be super productive.
-- Eslint + Prettier - We want to avoid silly mistakes in our code and keep it nicely formatted.
-- Vue router - There's very few projects that don't need some kind of routing so we may as well set this up by defualt.
+- [Vite](https://vitejs.dev/) - Vite will provide us with front-end tooling.
+- [PNPM](https://pnpm.io/) - PNPM has fast become our favourite package manager. Its just like NPM but faster!
+- [Vue 3](https://vuejs.org) - We are spoilt for choice these days but Vue is still our fave frontend framework.
+- [TailwindCSS](https://tailwindcss.com/) - The Marmitte of CSS frameworks! We love it and find it helps keep our projects consistant and allows us to be super productive.
+- [ESlint](https://eslint.org/) + [Prettier](https://prettier.io/) - We want to avoid silly mistakes in our code and keep it nicely formatted.
+- [Vue Router](https://router.vuejs.org/) - There's very few projects that don't need some kind of routing so we may as well set this up by defualt.
 
 ## Recommended IDE Setup
 
@@ -35,8 +35,24 @@ Add this to you vscode settings json, or the your workspace settings json. (`cmd
 
 ## How to use this starter project
 
+Clone this project
 ```
-git clone 
+git clone https://github.com/pixelhop/vue-starter.git <your-project-name>
+```
+
+Enter the new project folder
+```
+cd <your-project-name>
+```
+
+Initialise git
+```
+rm .rf .git && git init
+```
+
+Install dependencies. You may need to install pnpm first `npm i pnpm -g`
+```
+pnpm i
 ```
 
 
