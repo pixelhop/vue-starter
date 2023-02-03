@@ -1,6 +1,6 @@
 # Pixelhop Vue 3 Starter Project
 
-This is a starter project that is used a base for loads of [Pixelhop](https://pixelhop.io) front-end tutorials! 
+This is a starter project that is used a base for loads of [Pixelhop](https://pixelhop.io) frontend tutorials! 
 
 This project contains the following pre-installed and configured to help you get up and running with our tutorials quicker so you can get on with the fun stuff!
 
